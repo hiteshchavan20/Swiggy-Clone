@@ -4,6 +4,8 @@ function App(){
   return<>
   <Header/>
   <Category/>
+
+  {/* Hello My name hitesh */}
   </>
 }
 export default App;
